@@ -322,7 +322,7 @@ namespace AppShowdoMIlhao
                     new Alternativas { Correta = false, Descricao = "Machado de Assis"},
                 }
             },
-            ]new Perguntas
+            0new Perguntas
             {
                 Id = 27,
                 Enunciado = "Quem fundou a Microsoft?",
@@ -619,6 +619,97 @@ namespace AppShowdoMIlhao
             },
             new Perguntas
             {
+                Id = 51,
+                Enunciado = "Qual foi o placar no final da Copa de 98, quando o Brasil perdeu para a França?",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = "2x0"},
+                    new Alternativas { Correta = true, Descricao = "3x0"},
+                    new Alternativas { Correta = false, Descricao = "4x0"},
+                    new Alternativas { Correta = false, Descricao = "5x0"},
+                }
+
+            },
+            new Perguntas
+            {
+                Id = 52,
+                Enunciado = "Quantas folhas tem um trevo da sorte?",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = "1"},
+                    new Alternativas { Correta = false, Descricao = "2"},
+                    new Alternativas { Correta = false, Descricao = "3"},
+                    new Alternativas { Correta = true, Descricao = "4"},
+                }
+
+            },
+            new Perguntas
+            {
+                Id = 53,
+                Enunciado = "Qual é a cidade conhecida como “terra da garoa”?",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = "Rio de Janeiro"},
+                    new Alternativas { Correta = false, Descricao = "Porto Alegre"},
+                    new Alternativas { Correta = false, Descricao = "Piracicaba"},
+                    new Alternativas { Correta = true, Descricao = "São Paulo"},
+                }
+
+            },
+            new Perguntas
+            {
+                Id = 54,
+                Enunciado = "Qual ator do cinema brasileiro é conhecido por ter unhas enormes?",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = "Penadinho"},
+                    new Alternativas { Correta = true, Descricao = "Zé do caixão"},
+                    new Alternativas { Correta = false, Descricao = "Zé do Casarão"},
+                    new Alternativas { Correta = false, Descricao = "Toninho do diabo"},
+                }
+
+            },
+            new Perguntas
+            {
+                Id = 55,
+                Enunciado = "O violoncelo é um tipo de instrumento de",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = "Sopro"},
+                    new Alternativas { Correta = true, Descricao = "Cordas"},
+                    new Alternativas { Correta = false, Descricao = "Percussão"},
+                    new Alternativas { Correta = false, Descricao = "Repercussão"},
+                }
+
+            },
+            new Perguntas
+            {
+                Id = 56,
+                Enunciado = "Com que fruta a Branca de Neve foi envenenada?",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = true, Descricao = "Maçã"},
+                    new Alternativas { Correta = false, Descricao = "Pêra"},
+                    new Alternativas { Correta = false, Descricao = "Melão"},
+                    new Alternativas { Correta = false, Descricao = "Laranja"},
+                }
+
+            },
+            new Perguntas
+            {
+                Id = 57,
+                Enunciado = "Quem foi técnico da Seleção brasileira de futebol na Copa de 98?",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = "Zagallo"},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                }
+
+            },
+            new Perguntas
+            {
                 Id = ,
                 Enunciado = "",
                 Alternativas = new()
@@ -643,6 +734,137 @@ namespace AppShowdoMIlhao
                 }
 
             },
+            new Perguntas
+            {
+                Id = ,
+                Enunciado = "",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                }
+
+            },
+            new Perguntas
+            {
+                Id = ,
+                Enunciado = "",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                }
+
+            },
+            new Perguntas
+            {
+                Id = ,
+                Enunciado = "",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                }
+
+            },
+            new Perguntas
+            {
+                Id = ,
+                Enunciado = "",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                }
+
+            },
+            new Perguntas
+            {
+                Id = ,
+                Enunciado = "",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                }
+
+            },
+            new Perguntas
+            {
+                Id = ,
+                Enunciado = "",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                }
+
+            },
+            new Perguntas
+            {
+                Id = ,
+                Enunciado = "",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                }
+
+            },
+            new Perguntas
+            {
+                Id = ,
+                Enunciado = "",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                }
+
+            },
+            new Perguntas
+            {
+                Id = ,
+                Enunciado = "",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                }
+
+            },
+            new Perguntas
+            {
+                Id = ,
+                Enunciado = "",
+                Alternativas = new()
+                {
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                    new Alternativas { Correta = false, Descricao = ""},
+                }
+
+            },
+            
         public App()
         {
             InitializeComponent();
