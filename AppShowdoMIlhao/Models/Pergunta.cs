@@ -12,6 +12,6 @@ namespace AppShowdoMIlhao.Models
 
         public string Enunciado { get; set; }
 
-        public List<Alternativas> Alternativas { get; set; }
+        public List<Alternativa> Alternativa { get; set; }
     }
 }

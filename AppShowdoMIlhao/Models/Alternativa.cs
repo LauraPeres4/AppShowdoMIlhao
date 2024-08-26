@@ -8,7 +8,7 @@ namespace AppShowdoMIlhao.Models
 {
     public class Alternativas
     {
-            public int Id_Perguntas { get; set; }
+            public int Id_Pergunta { get; set; }
 
             public string Descricao { get; set; }
 
