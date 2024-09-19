@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppShowdoMIlhao.Models
 {
-    public class Alternativas
+    public class Alternativa
     {
             public int Id_Pergunta { get; set; }
 

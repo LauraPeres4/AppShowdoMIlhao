@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace AppShowdoMIlhao.Models
 {
-    public class Perguntas
+    public class Pergunta
     {
         public string Id { get; set; }
 
         public string Enunciado { get; set; }
 
-        public List<Alternativa> Alternativa { get; set; }
+        public List <Alternativa> Alternativa { get; set; }
     }
 }
